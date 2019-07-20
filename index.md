@@ -43,7 +43,7 @@ layout: default
 
     </div>
     <div class="col-6 col-lg-4 themed-grid-col">
-      <!-- Image -->
+      <img src="assets/Yunsup_Lee_holding_RISC_V_prototype_chip.jpg" class="img-fluid"/>
     </div>
   </div>
 
