@@ -14,7 +14,7 @@ layout: default
 
     <p class="lead">
 
-      The Embench suite is free to use. Each program in the suite is
+      The Embench&trade; suite is free to use. Each program in the suite is
       open source, and the integration is permissively licensed.
 
     </p>
@@ -31,7 +31,7 @@ layout: default
 
     <p class="lead">
 
-      The Embench standards group is open for all to join. For now,
+      The Embench&trade; standards group is open for all to join. For now,
       please join our mailing list:
 
     </p>
