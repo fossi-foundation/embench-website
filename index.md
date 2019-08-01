@@ -14,8 +14,8 @@ layout: default
 
     <p class="lead">
 
-      The Embench&trade; suite is free to use. Each program in the suite is
-      open source, and the integration is permissively licensed.
+      The Embench&trade; suite is free and open source software for you to
+      use, share and extend.
 
     </p>
 
