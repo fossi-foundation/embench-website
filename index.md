@@ -19,7 +19,7 @@ layout: default
 
     </p>
 
-    <a href="https://github.com/embench/embench-iot">{% octicon mark-github height:48 %}</a>
+    <a href="https://github.com/embench/embench-iot">{% octicon mark-github height:48 %}<br/>Embench&trade; code</a>
 
     </div>
   </div>
