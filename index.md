@@ -31,8 +31,10 @@ layout: default
 
     <p class="lead">
 
-      The Embench&trade; standards group is open for all to join. For now,
-      please join our mailing list:
+      The Embench&trade; standards group is open for all to join. For
+      now, please join our <a
+      href="https://lists.librecores.org/listinfo/embench">mailing
+      list</a>:
 
     </p>
 
