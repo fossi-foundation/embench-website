@@ -4,7 +4,7 @@ layout: default
 
  <div class="container">
 
-  <div class="row mb-3">
+  <div class="row my-5">
     <div class="col-6 col-lg-4 themed-grid-col">
       <img src="assets/arduino.jpg" class="img-fluid" />
     </div>
@@ -24,7 +24,7 @@ layout: default
     </div>
   </div>
 
-  <div class="row mb-3">
+  <div class="row my-5">
     <div class="col-12 col-sm-6 col-lg-8 themed-grid-col text-center">
 
     <h3>Join</h3>
