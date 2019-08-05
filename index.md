@@ -45,7 +45,7 @@ layout: default
 
     </div>
     <div class="col-6 col-lg-4 themed-grid-col">
-      <img src="assets/Yunsup_Lee_holding_RISC_V_prototype_chip.jpg" class="img-fluid"/>
+      <img src="assets/Yunsup_Lee_holding_RISC_V_prototype_chip.jpg" class="img-fluid rounded"/>
     </div>
   </div>
 
