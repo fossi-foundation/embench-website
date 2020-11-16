@@ -49,7 +49,7 @@ drop the weak ones and add enhancements over time. Since it's a suite, Embench
 reports a single summarizing performance score, along with the geometric mean
 and geometric standard deviation.
 
-Unlike Dhrystone, Embench has a supporting organization (FOSSi) to maintain its
+Unlike Dhrystone, Embench has a supporting organization (FOSSi Foundation) to maintain its
 relevance over time. Compilers and hardware change rapidly, so benchmarks need
 an organization that over time will deprecate pieces that are newly irrelevant
 and add missing features that speak to current challenges.
@@ -71,7 +71,7 @@ targeted at machines with up to 1MByte memory.
 
 **What are your plans for the next 6 months?**
 
-*Dave Patterson:* We hope to complete and release MLPerf 0.6.
+*Dave Patterson:* We hope to complete and release Embench 0.6.
 
 *Jeremy Bennett:* Much of my time is currently taken up as Chair of the Software
 Task Group for the Open Hardware Group. We are trying to build a vibrant
