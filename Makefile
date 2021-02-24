@@ -1,7 +1,8 @@
 all: preview
 
 dependencies:
-	bundle install --path vendor/bundle
+	bundle config set path 'vendor/bundle'
+	bundle install
 
 preview: dependencies
 	bundle exec jekyll serve
