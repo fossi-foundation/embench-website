@@ -7,4 +7,7 @@ dependencies:
 preview: dependencies
 	bundle exec jekyll serve
 
+update:
+	bundle lock --update
+
 .PHONY: preview dependencies
