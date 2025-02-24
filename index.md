@@ -49,7 +49,7 @@ layout: base
 
       The Embench&trade; standards group is open for all to join. For
       now, please join our <a
-      href="https://groups.google.com/a/lists.librecores.org/g/embench/">mailing
+      href="https://groups.google.com/g/embench/">mailing
       list</a>.
 
     </p>
